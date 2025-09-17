@@ -1,8 +1,8 @@
 Capstone Project Documentation Example
 
-  Kelley Moore
-  Single A Class 7
-  Instructors: Ross Agginie; Uhuru
+- Kelley Moore
+- Single A Class 7
+- Instructors: Ross Agginie; Uhuru
 
 The Information Technology field is a vast and intricate industry.  As a future cloud professional, there is a certain level of required knowledge that one must possess in order to effectively perform the role.  The following documentation will serve as a brief primer on the important information you need to know about some of the most common aspects of computing.  We will focus on the following topics: 
 
