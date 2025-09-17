@@ -67,7 +67,10 @@ Monitor
 
 Keyboard and Mouse
 - Users of the computer need a way to interact with the machine.  The Keyboard and Mouse are the primary way users accomplish this.  
-
+- The keyboard is a device that a user can type different letters, numbers, and symbols into the computer of which the output presents onto a monitor.  This device mimics how old school typewriters used to function and is necessary for everyday use of the computer. 
+- The Mouse is another peripheral device that enables the user to provide input to the computer.  
+- The user operates the mouse via grasping it in their hand and moving the device in correspondence with an on-screen arrow.  Commands can then be entered by using the left and right buttons on the top of the mouse. 
+- The importance of both devices cannot be overstated. Without them, the user would be unable to perform even the simplest of tasks on a PC.
 
 Resources
 
